@@ -1,39 +1,5 @@
 [
   {
-    "id": "deepseek-mobile-assistant-android",
-    "name": "DeepSeek 随身助手官方版 (Android APK)",
-    "version": "1.2.0",
-    "platform": "android",
-    "arch": "arm64",
-    "fileType": "apk",
-    "fileSize": "24.8 MB",
-    "downloadUrl": "https://github.com/shigu4795-design/deepseek-plugins-storage/releases/download/v1.2.0/DeepSeek-Mobile-v1.2.0.apk",
-    "mirrorUrls": [
-      {
-        "label": "GitHub 官方直链",
-        "url": "https://github.com/shigu4795-design/deepseek-plugins-storage/releases/download/v1.2.0/DeepSeek-Mobile-v1.2.0.apk"
-      },
-      {
-        "label": "国内高速直装源",
-        "url": "https://ghproxy.net/https://github.com/shigu4795-design/deepseek-plugins-storage/releases/download/v1.2.0/DeepSeek-Mobile-v1.2.0.apk"
-      }
-    ],
-    "sha256": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a",
-    "description": "DeepSeek 移动终端伴侣。支持语音极速输入、手机端插件管理、与桌面端会话无缝跨设备云同步、后台长文本自动推理推送。",
-    "descriptionEn": "DeepSeek Mobile companion for Android. Supports fast voice input, mobile plugin management, and cross-device seamless cloud sync.",
-    "changelog": "- 📱 全新 Material You 动态色彩设计，更流畅的沉浸式体验\n- 🎙️ 集成离线语音听写，毫秒级转化为 Prompt 提交模型\n- 🔄 增加与桌面客户端扫码快速配对与会话同步功能\n- 🔋 优化省电待机策略，降低后台常驻电量消耗",
-    "systemRequirements": "Android 8.0 (API Level 26) 及以上版本系统；支持 ARM64 处理器",
-    "icon": "Smartphone",
-    "author": "DeepSeek Official Team",
-    "uploaderId": "usr_minglin_admin",
-    "isOfficial": true,
-    "isFeatured": true,
-    "downloadCount": 12650,
-    "status": "published",
-    "createdAt": "2026-07-02T12:00:00.000Z",
-    "updatedAt": "2026-08-25T11:20:00.000Z"
-  },
-  {
     "id": "deepseek-harness-desktop-linux",
     "name": "DeepSeek Harness Linux 独立安装包 (AppImage)",
     "version": "1.5.2",
