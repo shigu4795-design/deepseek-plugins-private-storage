@@ -1,39 +1,5 @@
 [
   {
-    "id": "deepseek-harness-desktop-windows",
-    "name": "DeepSeek Harness 官方桌面客户端 (Windows)",
-    "version": "1.5.2",
-    "platform": "windows",
-    "arch": "x64",
-    "fileType": "exe",
-    "fileSize": "58.6 MB",
-    "downloadUrl": "https://github.com/shigu4795-design/deepseek-plugins-storage/releases/download/v1.5.2/DeepSeek-Harness-Setup-1.5.2.exe",
-    "mirrorUrls": [
-      {
-        "label": "GitHub Release 直连",
-        "url": "https://github.com/shigu4795-design/deepseek-plugins-storage/releases/download/v1.5.2/DeepSeek-Harness-Setup-1.5.2.exe"
-      },
-      {
-        "label": "国内高速 CDN 加速源",
-        "url": "https://ghproxy.net/https://github.com/shigu4795-design/deepseek-plugins-storage/releases/download/v1.5.2/DeepSeek-Harness-Setup-1.5.2.exe"
-      }
-    ],
-    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "description": "专为 Windows 用户深度优化的 DeepSeek Harness 完整图形化客户端。无缝集成 dsh:// 插件一键协议装载、本地大模型加速、破甲会话及多会话上下文持久化。",
-    "descriptionEn": "Official desktop GUI client for DeepSeek Harness on Windows with dsh:// protocol support, local acceleration, and multi-session persistence.",
-    "changelog": "- 🚀 支持 dsh:// 协议免命令行秒级静默唤醒与插件自动装配\n- ⚡ 升级内置 Node 22 运行时与 V8 引擎，启动提速 40%\n- 🛡️ 深度优化防封禁机制与长文本记忆向量缓存\n- 🎨 修复暗黑模式下输入框高亮边框渲染异常",
-    "systemRequirements": "Windows 10 / Windows 11 (64 位架构)；至少 4GB 内存；1GB 可用磁盘空间",
-    "icon": "Monitor",
-    "author": "DeepSeek Official Team",
-    "uploaderId": "usr_minglin_admin",
-    "isOfficial": true,
-    "isFeatured": true,
-    "downloadCount": 18942,
-    "status": "published",
-    "createdAt": "2026-06-18T10:00:00.000Z",
-    "updatedAt": "2026-08-28T16:30:00.000Z"
-  },
-  {
     "id": "deepseek-mobile-assistant-android",
     "name": "DeepSeek 随身助手官方版 (Android APK)",
     "version": "1.2.0",
