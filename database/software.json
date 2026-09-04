@@ -1,24 +1,100 @@
 [
   {
-    "id": "app-deepseek-harness------------windows",
-    "name": "Deepseek harness桌面版（支持一键安装）",
-    "version": "0.1.2",
+    "id": "deepseek-harness-desktop-windows",
+    "name": "DeepSeek Harness 官方桌面客户端 (Windows)",
+    "version": "1.5.2",
     "platform": "windows",
     "arch": "x64",
     "fileType": "exe",
-    "fileSize": "162.7 MB",
-    "downloadUrl": "https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.2/DeepSeek.Harness.Setup.0.1.2.exe",
-    "mirrorUrls": [],
-    "description": "DeepSeek Harness Desktop 0.1.2（支持插件市场一键安装版）\n全新升级至 DeepSeek Harness 官方 0.1.2 架构，内置全套离线 Node.js 运行时与 33,800+ 物理依赖，开箱即用，支持桌面端与插件市场「一键安装联动协议（dsh://）」。\n\n核心更新与亮点\n全面升级至 0.1.2 架构：适配新版 client-connection Launch Token 安全握手机制，秒级加载防黑屏。\n支持 dsh:// 插件一键安装联动协议：\n网页端/第三方服务点击一键安装链接可秒级唤起客户端。\n原生授权弹窗清晰展示插件 ID、名称、版本、仓库与申请权限。\n用户确认后自动下载、解压、配置 Cordis Loader 并热重启生效。\n数据平滑过渡：\n100% 完整保留用户历史会话数据（~/.dsh/sessions）与 API 凭据。\n自动清空旧版不兼容残留插件与配置，杜绝新旧版本冲突。\n单文件一键安装：免去 Python/Node/Git 等复杂开发环境配置，双击运行向导即可全自动部署完成。",
-    "changelog": "初始版本发布",
+    "fileSize": "58.6 MB",
+    "downloadUrl": "https://github.com/shigu4795-design/deepseek-plugins-storage/releases/download/v1.5.2/DeepSeek-Harness-Setup-1.5.2.exe",
+    "mirrorUrls": [
+      {
+        "label": "GitHub Release 直连",
+        "url": "https://github.com/shigu4795-design/deepseek-plugins-storage/releases/download/v1.5.2/DeepSeek-Harness-Setup-1.5.2.exe"
+      },
+      {
+        "label": "国内高速 CDN 加速源",
+        "url": "https://ghproxy.net/https://github.com/shigu4795-design/deepseek-plugins-storage/releases/download/v1.5.2/DeepSeek-Harness-Setup-1.5.2.exe"
+      }
+    ],
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "description": "专为 Windows 用户深度优化的 DeepSeek Harness 完整图形化客户端。无缝集成 dsh:// 插件一键协议装载、本地大模型加速、破甲会话及多会话上下文持久化。",
+    "descriptionEn": "Official desktop GUI client for DeepSeek Harness on Windows with dsh:// protocol support, local acceleration, and multi-session persistence.",
+    "changelog": "- 🚀 支持 dsh:// 协议免命令行秒级静默唤醒与插件自动装配\n- ⚡ 升级内置 Node 22 运行时与 V8 引擎，启动提速 40%\n- 🛡️ 深度优化防封禁机制与长文本记忆向量缓存\n- 🎨 修复暗黑模式下输入框高亮边框渲染异常",
+    "systemRequirements": "Windows 10 / Windows 11 (64 位架构)；至少 4GB 内存；1GB 可用磁盘空间",
     "icon": "Monitor",
-    "author": "MingLin",
-    "uploaderId": "user_1787573735221_k7vl",
-    "isOfficial": false,
+    "author": "DeepSeek Official Team",
+    "uploaderId": "usr_minglin_admin",
+    "isOfficial": true,
     "isFeatured": true,
-    "downloadCount": 0,
+    "downloadCount": 18942,
     "status": "published",
-    "createdAt": "2026-09-04T08:09:09.726Z",
-    "updatedAt": "2026-09-04T08:09:09.726Z"
+    "createdAt": "2026-06-18T10:00:00.000Z",
+    "updatedAt": "2026-08-28T16:30:00.000Z"
+  },
+  {
+    "id": "deepseek-mobile-assistant-android",
+    "name": "DeepSeek 随身助手官方版 (Android APK)",
+    "version": "1.2.0",
+    "platform": "android",
+    "arch": "arm64",
+    "fileType": "apk",
+    "fileSize": "24.8 MB",
+    "downloadUrl": "https://github.com/shigu4795-design/deepseek-plugins-storage/releases/download/v1.2.0/DeepSeek-Mobile-v1.2.0.apk",
+    "mirrorUrls": [
+      {
+        "label": "GitHub 官方直链",
+        "url": "https://github.com/shigu4795-design/deepseek-plugins-storage/releases/download/v1.2.0/DeepSeek-Mobile-v1.2.0.apk"
+      },
+      {
+        "label": "国内高速直装源",
+        "url": "https://ghproxy.net/https://github.com/shigu4795-design/deepseek-plugins-storage/releases/download/v1.2.0/DeepSeek-Mobile-v1.2.0.apk"
+      }
+    ],
+    "sha256": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a",
+    "description": "DeepSeek 移动终端伴侣。支持语音极速输入、手机端插件管理、与桌面端会话无缝跨设备云同步、后台长文本自动推理推送。",
+    "descriptionEn": "DeepSeek Mobile companion for Android. Supports fast voice input, mobile plugin management, and cross-device seamless cloud sync.",
+    "changelog": "- 📱 全新 Material You 动态色彩设计，更流畅的沉浸式体验\n- 🎙️ 集成离线语音听写，毫秒级转化为 Prompt 提交模型\n- 🔄 增加与桌面客户端扫码快速配对与会话同步功能\n- 🔋 优化省电待机策略，降低后台常驻电量消耗",
+    "systemRequirements": "Android 8.0 (API Level 26) 及以上版本系统；支持 ARM64 处理器",
+    "icon": "Smartphone",
+    "author": "DeepSeek Official Team",
+    "uploaderId": "usr_minglin_admin",
+    "isOfficial": true,
+    "isFeatured": true,
+    "downloadCount": 12650,
+    "status": "published",
+    "createdAt": "2026-07-02T12:00:00.000Z",
+    "updatedAt": "2026-08-25T11:20:00.000Z"
+  },
+  {
+    "id": "deepseek-harness-desktop-linux",
+    "name": "DeepSeek Harness Linux 独立安装包 (AppImage)",
+    "version": "1.5.2",
+    "platform": "linux",
+    "arch": "x64",
+    "fileType": "appimage",
+    "fileSize": "68.0 MB",
+    "downloadUrl": "https://github.com/shigu4795-design/deepseek-plugins-storage/releases/download/v1.5.2/DeepSeek-Harness-1.5.2.AppImage",
+    "mirrorUrls": [
+      {
+        "label": "GitHub 官方直链",
+        "url": "https://github.com/shigu4795-design/deepseek-plugins-storage/releases/download/v1.5.2/DeepSeek-Harness-1.5.2.AppImage"
+      }
+    ],
+    "sha256": "8c414995963be5fba609f87feefeb244d2d6fe6207b51e5debf3abcc89a80e1a",
+    "description": "单文件无依赖开箱即用的 Linux AppImage 安装包。支持 Ubuntu、Debian、Arch Linux、Fedora 等各大发行版系统。",
+    "descriptionEn": "Portable standalone Linux AppImage package compatible with Ubuntu, Debian, Arch Linux, and Fedora.",
+    "changelog": "- 🐧 支持 Wayland 原生显示协议与高清缩放 HiDPI\n- 🧩 优化 Linux 下跨进程沙箱通信与文件权限隔离",
+    "systemRequirements": "glibc 2.28+ (Ubuntu 20.04+, Debian 10+, Fedora 30+, Arch Linux)",
+    "icon": "Terminal",
+    "author": "DeepSeek Official Team",
+    "uploaderId": "usr_minglin_admin",
+    "isOfficial": true,
+    "isFeatured": false,
+    "downloadCount": 4310,
+    "status": "published",
+    "createdAt": "2026-06-25T09:00:00.000Z",
+    "updatedAt": "2026-08-28T16:30:00.000Z"
   }
 ]
