@@ -9,7 +9,7 @@
     "fileSize": "35.0 MB",
     "downloadUrl": "https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.3/DeepSeek.Harness.Setup.0.1.3-max-ultra.exe",
     "mirrorUrls": [],
-    "description": "支持插件市场各种插件，一键安装（安装需要自己清理干净就得版本）",
+    "description": "支持插件市场各种插件，一键安装（安装需要自己清理干净就得版本）  更新时间9月13日",
     "changelog": "初始版本发布",
     "icon": "Monitor",
     "author": "MingLin",
@@ -19,6 +19,7 @@
     "downloadCount": 0,
     "status": "published",
     "createdAt": "2026-09-12T19:30:37.887Z",
-    "updatedAt": "2026-09-12T19:30:37.887Z"
+    "updatedAt": "2026-09-12T19:31:58.590Z",
+    "systemRequirements": ""
   }
 ]
