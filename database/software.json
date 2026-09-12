@@ -1,7 +1,7 @@
 [
   {
     "id": "app-deepseek-harness-setup-0-1-3-max-ultra------windows",
-    "name": "DeepSeek Harness Setup 0.1.3 max ultra（无限制）",
+    "name": "DeepSeek Harness Setup 0.1.3 max（配合插件效果更好）",
     "version": "1.0.0",
     "platform": "windows",
     "arch": "x64",
@@ -16,9 +16,10 @@
     "uploaderId": "user_1787573735221_k7vl",
     "isOfficial": false,
     "isFeatured": true,
-    "downloadCount": 0,
+    "downloadCount": 18,
     "status": "published",
     "createdAt": "2026-09-12T17:38:25.264Z",
-    "updatedAt": "2026-09-12T17:38:25.264Z"
+    "updatedAt": "2026-09-12T18:01:32.988Z",
+    "systemRequirements": ""
   }
 ]
