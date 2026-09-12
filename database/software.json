@@ -20,29 +20,5 @@
     "status": "published",
     "createdAt": "2026-09-12T17:38:25.264Z",
     "updatedAt": "2026-09-12T17:38:25.264Z"
-  },
-  {
-    "id": "app-deepseek-harness--------------windows",
-    "name": "DeepSeek Harness桌面端（支持插件一键安装）",
-    "version": "0.1.3",
-    "platform": "windows",
-    "arch": "x64",
-    "fileType": "exe",
-    "fileSize": "127.9 MB",
-    "downloadUrl": "https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.3/DeepSeek.Harness.Setup.0.1.3.exe",
-    "mirrorUrls": [],
-    "sha256": "d7ebc7613e4e59966d6284a8a3f4c2b339ca4f927c7148aa75e59fa496161d88",
-    "description": "支持插件的一键安装和管理（点击插件运行的效率灯就是暂停插件使用）",
-    "changelog": "初始版本发布",
-    "systemRequirements": "Windows 10 / Windows 11 (64位)",
-    "icon": "Monitor",
-    "author": "MingLin",
-    "uploaderId": "user_1787573735221_k7vl",
-    "isOfficial": true,
-    "isFeatured": true,
-    "downloadCount": 1654,
-    "status": "published",
-    "createdAt": "2026-09-08T23:30:35.970Z",
-    "updatedAt": "2026-09-08T23:30:35.970Z"
   }
 ]
