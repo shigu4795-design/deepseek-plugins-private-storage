@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "app-deepseek-harness-------------windows",
+    "name": "DeepSeek Harness 桌面客户端 （插件版）",
+    "version": "0.1.3",
+    "platform": "windows",
+    "arch": "x64",
+    "fileType": "exe",
+    "fileSize": "35.0 MB",
+    "downloadUrl": "https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.3/DeepSeek.Harness.Setup.0.1.3-max-ultra-X.exe",
+    "mirrorUrls": [],
+    "description": "支持各种插件的安装，搭配插件网的效果更好",
+    "changelog": "初始版本发布",
+    "icon": "Monitor",
+    "author": "MingLin",
+    "uploaderId": "user_1787573735221_k7vl",
+    "isOfficial": false,
+    "isFeatured": true,
+    "downloadCount": 0,
+    "status": "published",
+    "createdAt": "2026-09-14T19:40:32.469Z",
+    "updatedAt": "2026-09-14T19:40:32.469Z"
+  }
+]
