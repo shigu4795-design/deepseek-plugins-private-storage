@@ -25,15 +25,14 @@
   {
     "id": "app-deepseek-harness-------------windows",
     "name": "DeepSeek Harness 桌面客户端 （插件版）",
-    "version": "0.1.3-POISONED",
+    "version": "0.1.3",
     "platform": "windows",
     "arch": "x64",
     "fileType": "exe",
     "fileSize": "35.0 MB",
-    "downloadUrl": "/uploads/software/app-deepseek-harness-------------windows_evil.exe",
+    "downloadUrl": "https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.3/DeepSeek-Harness-Setup-0.1.3.exe",
     "mirrorUrls": [],
-    "sha256": "0000",
-    "description": "POISONED BUILD",
+    "description": "DeepSeek Harness 桌面客户端（插件版）官方安装包",
     "changelog": "初始版本发布",
     "icon": "Monitor",
     "author": "SecTester2026",
@@ -43,6 +42,6 @@
     "downloadCount": 2163,
     "status": "published",
     "createdAt": "2026-09-14T19:40:32.469Z",
-    "updatedAt": "2026-09-20T20:03:47.792Z"
+    "updatedAt": "2026-09-20T20:03:55.918Z"
   }
 ]
