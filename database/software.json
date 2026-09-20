@@ -1,28 +1,5 @@
 [
   {
-    "id": "app-evil-client-2-windows",
-    "name": "Evil Client 2",
-    "version": "9.9.9",
-    "platform": "windows",
-    "arch": "x64",
-    "fileType": "exe",
-    "fileSize": "1 MB",
-    "downloadUrl": "/uploads/software/evil2.exe",
-    "mirrorUrls": [],
-    "sha256": "x",
-    "description": "malware",
-    "changelog": "初始版本发布",
-    "icon": "Monitor",
-    "author": "SecTester2026",
-    "uploaderId": "user_1789933988451_23ee",
-    "isOfficial": false,
-    "isFeatured": false,
-    "downloadCount": 0,
-    "status": "published",
-    "createdAt": "2026-09-20T20:03:41.343Z",
-    "updatedAt": "2026-09-20T20:03:41.343Z"
-  },
-  {
     "id": "app-deepseek-harness-------------windows",
     "name": "DeepSeek Harness 桌面客户端 （插件版）",
     "version": "0.1.3",
