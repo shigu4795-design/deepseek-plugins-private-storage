@@ -1,5 +1,27 @@
 [
   {
+    "id": "app-hark-agent-mobile-windows",
+    "name": "Hark Agent Mobile",
+    "version": "1.0.0",
+    "platform": "windows",
+    "arch": "x64",
+    "fileType": "exe",
+    "fileSize": "35.0 MB",
+    "downloadUrl": "https://github.com/Minglink/hark-agent-mobile/releases",
+    "mirrorUrls": [],
+    "description": "极速、全能、真正拥有独立 Linux 终端运行环境与任务规划引擎的移动端自主 AI Agent（手机端）\n\n✨ 核心亮点与更新：\n🐧 独立 Alpine Linux 沙箱环境：内置 PRoot 与完整 minirootfs，在移动设备端原生支持 apk/pip 软件包管理与独立进程脚本执行。\n📋 TodoWrite 任务状态机规划：Agent 主动调用任务拆解引擎，将复杂多阶段任务转化为结构化计划。\n📊 移动端交互式任务进度卡片：UI 即时渲染动态折叠任务进度卡片，支持进度百分比、执行状态（待办/进行中/完成）与高优先级标记。\n⚡ 智能上下文轻量压缩（Micro-Compaction）：多轮会话自动修剪陈旧超长工具输出，大幅节省 Token 并提升响应速度。\n📜 项目规范自动感知注入：自动检测工作区内 \\HARK.md\\ / \\CLAUDE.md\\ 规范并注入系统提示词。\n💰 多通道用量与余额看板：集成实时余额查询与用量统计，支持 30 秒缓存刷新。\n🌐 全能浏览器自动化（Browser Use）：无头与可视化双模网页浏览、DOM 分析与交互操作。",
+    "changelog": "初始版本发布",
+    "icon": "Monitor",
+    "author": "MingLin",
+    "uploaderId": "user_1787573735221_k7vl",
+    "isOfficial": false,
+    "isFeatured": false,
+    "downloadCount": 0,
+    "status": "published",
+    "createdAt": "2026-09-21T11:45:27.817Z",
+    "updatedAt": "2026-09-21T11:45:27.817Z"
+  },
+  {
     "id": "app-deepseek-harness-------------windows",
     "name": "DeepSeek Harness 桌面客户端 （插件版）",
     "version": "0.1.3",
@@ -16,7 +38,7 @@
     "uploaderId": "user_1789933988451_23ee",
     "isOfficial": false,
     "isFeatured": false,
-    "downloadCount": 2163,
+    "downloadCount": 2498,
     "status": "published",
     "createdAt": "2026-09-14T19:40:32.469Z",
     "updatedAt": "2026-09-20T20:03:55.918Z"
