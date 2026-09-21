@@ -1,5 +1,27 @@
 [
   {
+    "id": "app-deepseek-harness-desktop-0-1-6-max-----windows",
+    "name": "DeepSeek Harness Desktop 0.1.6 Max 桌面端",
+    "version": "0.1.6",
+    "platform": "windows",
+    "arch": "x64",
+    "fileType": "exe",
+    "fileSize": "35.0 MB",
+    "downloadUrl": "https://ghproxy.net/https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.6-max/deepseek-harness.0.1.6.max.exe",
+    "mirrorUrls": [],
+    "description": "本次 0.1.6 Max 是 DeepSeek Harness 桌面端自发布以来最大的一次全方位架构与体验革新，支持了团队任务等一些列的功能",
+    "changelog": "初始版本发布",
+    "icon": "Monitor",
+    "author": "MingLin",
+    "uploaderId": "user_1787573735221_k7vl",
+    "isOfficial": false,
+    "isFeatured": false,
+    "downloadCount": 0,
+    "status": "published",
+    "createdAt": "2026-09-21T17:59:10.085Z",
+    "updatedAt": "2026-09-21T17:59:10.085Z"
+  },
+  {
     "id": "app-hark-agent-mobile-windows",
     "name": "Hark Agent Mobile",
     "version": "1.0.0",
