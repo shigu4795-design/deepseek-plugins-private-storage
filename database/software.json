@@ -6,41 +6,32 @@
     "platform": "windows",
     "arch": "x64",
     "fileType": "exe",
-    "fileSize": "35.0 MB",
-    "downloadUrl": "https://ghproxy.net/https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.6-max/deepseek-harness.0.1.6.max.exe",
-    "mirrorUrls": [],
-    "description": "本次 0.1.6 Max 是 DeepSeek Harness 桌面端自发布以来最大的一次全方位架构与体验革新，支持了团队任务等一些列的功能",
+    "fileSize": "367.4 MB",
+    "downloadUrl": "https://gh-proxy.com/https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.6-max/deepseek-harness.0.1.6.max.exe",
+    "mirrorUrls": [
+      {
+        "label": "⚡ 国内极速加速源 1 (gh-proxy)",
+        "url": "https://gh-proxy.com/https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.6-max/deepseek-harness.0.1.6.max.exe"
+      },
+      {
+        "label": "🚀 全球高速分流源 2 (ghfast)",
+        "url": "https://ghfast.top/https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.6-max/deepseek-harness.0.1.6.max.exe"
+      },
+      {
+        "label": "🌐 GitHub 官方原版直连",
+        "url": "https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.6-max/deepseek-harness.0.1.6.max.exe"
+      }
+    ],
+    "description": "本次 0.1.6 Max 是 DeepSeek Harness 桌面端自发布以来最大的一次全方位架构与体验革新，包含液态玻璃视觉与动态壁纸，深度支持团队协同与全量 0.1.6 插件生态。",
     "changelog": "初始版本发布",
     "icon": "Monitor",
     "author": "MingLin",
     "uploaderId": "user_1787573735221_k7vl",
-    "isOfficial": false,
-    "isFeatured": false,
-    "downloadCount": 0,
+    "isOfficial": true,
+    "isFeatured": true,
+    "downloadCount": 1752,
     "status": "published",
     "createdAt": "2026-09-21T17:59:10.085Z",
-    "updatedAt": "2026-09-21T17:59:10.085Z"
-  },
-  {
-    "id": "app-hark-agent-mobile-windows",
-    "name": "Hark Agent Mobile",
-    "version": "1.0.0",
-    "platform": "windows",
-    "arch": "x64",
-    "fileType": "exe",
-    "fileSize": "35.0 MB",
-    "downloadUrl": "https://github.com/Minglink/hark-agent-mobile/releases",
-    "mirrorUrls": [],
-    "description": "极速、全能、真正拥有独立 Linux 终端运行环境与任务规划引擎的移动端自主 AI Agent（手机端）\n\n✨ 核心亮点与更新：\n🐧 独立 Alpine Linux 沙箱环境：内置 PRoot 与完整 minirootfs，在移动设备端原生支持 apk/pip 软件包管理与独立进程脚本执行。\n📋 TodoWrite 任务状态机规划：Agent 主动调用任务拆解引擎，将复杂多阶段任务转化为结构化计划。\n📊 移动端交互式任务进度卡片：UI 即时渲染动态折叠任务进度卡片，支持进度百分比、执行状态（待办/进行中/完成）与高优先级标记。\n⚡ 智能上下文轻量压缩（Micro-Compaction）：多轮会话自动修剪陈旧超长工具输出，大幅节省 Token 并提升响应速度。\n📜 项目规范自动感知注入：自动检测工作区内 \\HARK.md\\ / \\CLAUDE.md\\ 规范并注入系统提示词。\n💰 多通道用量与余额看板：集成实时余额查询与用量统计，支持 30 秒缓存刷新。\n🌐 全能浏览器自动化（Browser Use）：无头与可视化双模网页浏览、DOM 分析与交互操作。",
-    "changelog": "初始版本发布",
-    "icon": "Monitor",
-    "author": "MingLin",
-    "uploaderId": "user_1787573735221_k7vl",
-    "isOfficial": false,
-    "isFeatured": false,
-    "downloadCount": 15,
-    "status": "published",
-    "createdAt": "2026-09-21T11:45:27.817Z",
-    "updatedAt": "2026-09-21T11:45:27.817Z"
+    "updatedAt": "2026-09-28T14:44:30.720Z"
   }
 ]
