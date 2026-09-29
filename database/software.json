@@ -1,27 +1,5 @@
 [
   {
-    "id": "app-deepseek-harness--------------windows",
-    "name": "Deepseek harness(无壁纸版，支持一键安装)",
-    "version": "0.1.6",
-    "platform": "windows",
-    "arch": "x64",
-    "fileType": "exe",
-    "fileSize": "35.0 MB",
-    "downloadUrl": "https://gh-proxy.com/https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.6-community/deepseek-harness.0.1.6.community.lite.exe",
-    "mirrorUrls": [],
-    "description": "无壁纸",
-    "changelog": "初始版本发布",
-    "icon": "Monitor",
-    "author": "MingLin",
-    "uploaderId": "user_1787573735221_k7vl",
-    "isOfficial": false,
-    "isFeatured": true,
-    "downloadCount": 0,
-    "status": "published",
-    "createdAt": "2026-09-29T06:06:14.330Z",
-    "updatedAt": "2026-09-29T06:06:14.330Z"
-  },
-  {
     "id": "app-hark--------------agent--android",
     "name": "Hark（支持自定义系统提示词的手机agent）",
     "version": "1.1.0",
@@ -29,8 +7,21 @@
     "arch": "arm64",
     "fileType": "apk",
     "fileSize": "35.0 MB",
-    "downloadUrl": "https://github.com/Minglink/hark-agent-mobile/raw/master/Hark-1.1.0.apk",
-    "mirrorUrls": [],
+    "downloadUrl": "https://ghproxy.net/https://github.com/Minglink/hark-agent-mobile/raw/master/Hark-1.1.0.apk",
+    "mirrorUrls": [
+      {
+        "label": "⚡ 国内极速加速源 1 (ghproxy.net)",
+        "url": "https://ghproxy.net/https://github.com/Minglink/hark-agent-mobile/raw/master/Hark-1.1.0.apk"
+      },
+      {
+        "label": "🚀 全球高速分流源 2 (ghfast.top)",
+        "url": "https://ghfast.top/https://github.com/Minglink/hark-agent-mobile/raw/master/Hark-1.1.0.apk"
+      },
+      {
+        "label": "🌐 GitHub 官方原版直连",
+        "url": "https://github.com/Minglink/hark-agent-mobile/raw/master/Hark-1.1.0.apk"
+      }
+    ],
     "description": "支持项目管理，支持linux运行空间，支持自定义系统提示词",
     "changelog": "支持项目管理，支持linux运行空间，支持自定义系统提示词",
     "systemRequirements": "Android 8.0 及以上",
@@ -39,10 +30,10 @@
     "uploaderId": "user_1787573735221_k7vl",
     "isOfficial": false,
     "isFeatured": false,
-    "downloadCount": 1,
+    "downloadCount": 5,
     "status": "published",
     "createdAt": "2026-09-29T05:59:37.588Z",
-    "updatedAt": "2026-09-29T05:59:37.588Z"
+    "updatedAt": "2026-09-29T06:24:32.651Z"
   },
   {
     "id": "app-deepseek-harness-desktop-0-1-6-max-----windows",
@@ -52,14 +43,14 @@
     "arch": "x64",
     "fileType": "exe",
     "fileSize": "367.4 MB",
-    "downloadUrl": "https://gh-proxy.com/https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.6-max/deepseek-harness.0.1.6.max.exe",
+    "downloadUrl": "https://ghproxy.net/https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.6-max/deepseek-harness.0.1.6.max.exe",
     "mirrorUrls": [
       {
-        "label": "⚡ 国内极速加速源 1 (gh-proxy)",
-        "url": "https://gh-proxy.com/https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.6-max/deepseek-harness.0.1.6.max.exe"
+        "label": "⚡ 国内极速加速源 1 (ghproxy.net)",
+        "url": "https://ghproxy.net/https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.6-max/deepseek-harness.0.1.6.max.exe"
       },
       {
-        "label": "🚀 全球高速分流源 2 (ghfast)",
+        "label": "🚀 全球高速分流源 2 (ghfast.top)",
         "url": "https://ghfast.top/https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.6-max/deepseek-harness.0.1.6.max.exe"
       },
       {
@@ -74,9 +65,9 @@
     "uploaderId": "user_1787573735221_k7vl",
     "isOfficial": true,
     "isFeatured": true,
-    "downloadCount": 1875,
+    "downloadCount": 1892,
     "status": "published",
     "createdAt": "2026-09-21T17:59:10.085Z",
-    "updatedAt": "2026-09-28T14:44:30.720Z"
+    "updatedAt": "2026-09-29T06:24:32.651Z"
   }
 ]
