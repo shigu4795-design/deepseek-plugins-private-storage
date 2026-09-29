@@ -1,5 +1,28 @@
 [
   {
+    "id": "app-hark--------------agent--android",
+    "name": "Hark（支持自定义系统提示词的手机agent）",
+    "version": "1.1.0",
+    "platform": "android",
+    "arch": "arm64",
+    "fileType": "apk",
+    "fileSize": "35.0 MB",
+    "downloadUrl": "https://github.com/Minglink/hark-agent-mobile/raw/master/Hark-1.1.0.apk",
+    "mirrorUrls": [],
+    "description": "支持项目管理，支持linux运行空间，支持自定义系统提示词",
+    "changelog": "支持项目管理，支持linux运行空间，支持自定义系统提示词",
+    "systemRequirements": "Android 8.0 及以上",
+    "icon": "Smartphone",
+    "author": "MingLin",
+    "uploaderId": "user_1787573735221_k7vl",
+    "isOfficial": false,
+    "isFeatured": false,
+    "downloadCount": 0,
+    "status": "published",
+    "createdAt": "2026-09-29T05:59:37.588Z",
+    "updatedAt": "2026-09-29T05:59:37.588Z"
+  },
+  {
     "id": "app-deepseek-harness-desktop-0-1-6-max-----windows",
     "name": "DeepSeek Harness Desktop 0.1.6 Max 桌面端",
     "version": "0.1.6",
