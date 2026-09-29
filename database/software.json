@@ -1,5 +1,27 @@
 [
   {
+    "id": "app-deepseek-harness--------------windows",
+    "name": "Deepseek harness(无壁纸版，支持一键安装)",
+    "version": "0.1.6",
+    "platform": "windows",
+    "arch": "x64",
+    "fileType": "exe",
+    "fileSize": "35.0 MB",
+    "downloadUrl": "https://gh-proxy.com/https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.6-community/deepseek-harness.0.1.6.community.lite.exe",
+    "mirrorUrls": [],
+    "description": "无壁纸",
+    "changelog": "初始版本发布",
+    "icon": "Monitor",
+    "author": "MingLin",
+    "uploaderId": "user_1787573735221_k7vl",
+    "isOfficial": false,
+    "isFeatured": true,
+    "downloadCount": 0,
+    "status": "published",
+    "createdAt": "2026-09-29T06:06:14.330Z",
+    "updatedAt": "2026-09-29T06:06:14.330Z"
+  },
+  {
     "id": "app-hark--------------agent--android",
     "name": "Hark（支持自定义系统提示词的手机agent）",
     "version": "1.1.0",
@@ -17,7 +39,7 @@
     "uploaderId": "user_1787573735221_k7vl",
     "isOfficial": false,
     "isFeatured": false,
-    "downloadCount": 0,
+    "downloadCount": 1,
     "status": "published",
     "createdAt": "2026-09-29T05:59:37.588Z",
     "updatedAt": "2026-09-29T05:59:37.588Z"
@@ -52,7 +74,7 @@
     "uploaderId": "user_1787573735221_k7vl",
     "isOfficial": true,
     "isFeatured": true,
-    "downloadCount": 1872,
+    "downloadCount": 1875,
     "status": "published",
     "createdAt": "2026-09-21T17:59:10.085Z",
     "updatedAt": "2026-09-28T14:44:30.720Z"
