@@ -1,5 +1,28 @@
 [
   {
+    "id": "app-aitest8-0-----exe-windows",
+    "name": "AITEST8.0 破解版.exe",
+    "version": "1.0.0",
+    "platform": "windows",
+    "arch": "x64",
+    "fileType": "zip",
+    "fileSize": "66.4 MB",
+    "downloadUrl": "https://github.com/shigu4795-design/deepseek-plugins-private-storage/releases/download/software-vault/software-aitest8-0-----exe-v1.0.0-AITEST8.0_.exe.zip",
+    "mirrorUrls": [],
+    "sha256": "f5e5e86257a5241fe23b0ec2b971e0c2e424667baf68a0dfb838f40662922b51",
+    "description": "破甲提示词以及技能 mcp   不放心自觉查病毒",
+    "changelog": "初始版本发布",
+    "icon": "Monitor",
+    "author": "萌新",
+    "uploaderId": "user_1790841656088_qxt0",
+    "isOfficial": false,
+    "isFeatured": false,
+    "downloadCount": 0,
+    "status": "published",
+    "createdAt": "2026-10-01T09:35:22.791Z",
+    "updatedAt": "2026-10-01T09:35:22.791Z"
+  },
+  {
     "id": "app-deepseek-harness----------------windows",
     "name": "Deepseek harness（支持一键安装 无壁纸插件版）",
     "version": "0.1.6",
@@ -16,7 +39,7 @@
     "uploaderId": "user_1787573735221_k7vl",
     "isOfficial": false,
     "isFeatured": true,
-    "downloadCount": 82,
+    "downloadCount": 112,
     "status": "published",
     "createdAt": "2026-09-29T07:46:07.952Z",
     "updatedAt": "2026-09-30T16:10:14.632Z"
@@ -52,7 +75,7 @@
     "uploaderId": "user_1787573735221_k7vl",
     "isOfficial": false,
     "isFeatured": false,
-    "downloadCount": 50,
+    "downloadCount": 66,
     "status": "published",
     "createdAt": "2026-09-29T05:59:37.588Z",
     "updatedAt": "2026-09-29T06:24:32.651Z"
@@ -87,7 +110,7 @@
     "uploaderId": "user_1787573735221_k7vl",
     "isOfficial": true,
     "isFeatured": true,
-    "downloadCount": 2364,
+    "downloadCount": 2525,
     "status": "published",
     "createdAt": "2026-09-21T17:59:10.085Z",
     "updatedAt": "2026-09-29T06:24:32.651Z"
