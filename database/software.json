@@ -7,8 +7,25 @@
     "arch": "x64",
     "fileType": "zip",
     "fileSize": "66.4 MB",
-    "downloadUrl": "https://github.com/shigu4795-design/deepseek-plugins-private-storage/releases/download/software-vault/software-aitest8-0-----exe-v1.0.0-AITEST8.0_.exe.zip",
-    "mirrorUrls": [],
+    "downloadUrl": "https://ghproxy.net/https://github.com/shigu4795-design/deepseek-plugins-private-storage/releases/download/software-vault/software-aitest8-0-----exe-v1.0.0-AITEST8.0_.exe.zip",
+    "mirrorUrls": [
+      {
+        "label": "⚡ 国内极速加速源 1 (ghproxy.net - 推荐)",
+        "url": "https://ghproxy.net/https://github.com/shigu4795-design/deepseek-plugins-private-storage/releases/download/software-vault/software-aitest8-0-----exe-v1.0.0-AITEST8.0_.exe.zip"
+      },
+      {
+        "label": "🚀 全球高速分流源 2 (ghfast.top)",
+        "url": "https://ghfast.top/https://github.com/shigu4795-design/deepseek-plugins-private-storage/releases/download/software-vault/software-aitest8-0-----exe-v1.0.0-AITEST8.0_.exe.zip"
+      },
+      {
+        "label": "🌐 GitHub 官方原版直连",
+        "url": "https://github.com/shigu4795-design/deepseek-plugins-private-storage/releases/download/software-vault/software-aitest8-0-----exe-v1.0.0-AITEST8.0_.exe.zip"
+      },
+      {
+        "label": "⚡ 服务器本地直连源",
+        "url": "/uploads/software/software-aitest8-0-----exe-v1.0.0-AITEST8.0_破解版.exe.zip"
+      }
+    ],
     "sha256": "f5e5e86257a5241fe23b0ec2b971e0c2e424667baf68a0dfb838f40662922b51",
     "description": "破甲提示词以及技能 mcp   不放心自觉查病毒",
     "changelog": "初始版本发布",
@@ -17,7 +34,7 @@
     "uploaderId": "user_1790841656088_qxt0",
     "isOfficial": false,
     "isFeatured": false,
-    "downloadCount": 0,
+    "downloadCount": 80,
     "status": "published",
     "createdAt": "2026-10-01T09:35:22.791Z",
     "updatedAt": "2026-10-01T09:35:22.791Z"
@@ -39,7 +56,7 @@
     "uploaderId": "user_1787573735221_k7vl",
     "isOfficial": false,
     "isFeatured": true,
-    "downloadCount": 112,
+    "downloadCount": 130,
     "status": "published",
     "createdAt": "2026-09-29T07:46:07.952Z",
     "updatedAt": "2026-09-30T16:10:14.632Z"
@@ -75,44 +92,9 @@
     "uploaderId": "user_1787573735221_k7vl",
     "isOfficial": false,
     "isFeatured": false,
-    "downloadCount": 66,
+    "downloadCount": 70,
     "status": "published",
     "createdAt": "2026-09-29T05:59:37.588Z",
-    "updatedAt": "2026-09-29T06:24:32.651Z"
-  },
-  {
-    "id": "app-deepseek-harness-desktop-0-1-6-max-----windows",
-    "name": "DeepSeek Harness Desktop 0.1.6 Max 桌面端",
-    "version": "0.1.6",
-    "platform": "windows",
-    "arch": "x64",
-    "fileType": "exe",
-    "fileSize": "367.4 MB",
-    "downloadUrl": "https://ghproxy.net/https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.6-max/deepseek-harness.0.1.6.max.exe",
-    "mirrorUrls": [
-      {
-        "label": "⚡ 国内极速加速源 1 (ghproxy.net)",
-        "url": "https://ghproxy.net/https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.6-max/deepseek-harness.0.1.6.max.exe"
-      },
-      {
-        "label": "🚀 全球高速分流源 2 (ghfast.top)",
-        "url": "https://ghfast.top/https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.6-max/deepseek-harness.0.1.6.max.exe"
-      },
-      {
-        "label": "🌐 GitHub 官方原版直连",
-        "url": "https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.6-max/deepseek-harness.0.1.6.max.exe"
-      }
-    ],
-    "description": "本次 0.1.6 Max 是 DeepSeek Harness 桌面端自发布以来最大的一次全方位架构与体验革新，包含液态玻璃视觉与动态壁纸，深度支持团队协同与全量 0.1.6 插件生态。",
-    "changelog": "初始版本发布",
-    "icon": "Monitor",
-    "author": "MingLin",
-    "uploaderId": "user_1787573735221_k7vl",
-    "isOfficial": true,
-    "isFeatured": true,
-    "downloadCount": 2525,
-    "status": "published",
-    "createdAt": "2026-09-21T17:59:10.085Z",
     "updatedAt": "2026-09-29T06:24:32.651Z"
   }
 ]
