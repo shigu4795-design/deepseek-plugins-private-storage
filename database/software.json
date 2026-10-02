@@ -34,7 +34,7 @@
     "uploaderId": "user_1790841656088_qxt0",
     "isOfficial": false,
     "isFeatured": false,
-    "downloadCount": 80,
+    "downloadCount": 288,
     "status": "published",
     "createdAt": "2026-10-01T09:35:22.791Z",
     "updatedAt": "2026-10-01T09:35:22.791Z"
@@ -47,19 +47,21 @@
     "arch": "x64",
     "fileType": "exe",
     "fileSize": "35.0 MB",
-    "downloadUrl": "https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.6-community/deepseek-harness.0.1.6.community.lite.exe",
+    "downloadUrl": "https://ghproxy.net/https://github.com/Minglink/DeepSeek-Harness-Desktop/releases/download/v0.1.6-community/deepseek-harness.0.1.6.community.lite.exe",
     "mirrorUrls": [],
     "description": "本次 0.1.6 Max 是 DeepSeek Harness 桌面端自发布以来最大的一次全方位架构与体验革新，包含液态玻璃视觉与动态壁纸，深度支持团队协同与全量 0.1.6 插件生态。",
     "changelog": "初始版本发布",
     "icon": "Monitor",
     "author": "MingLin",
     "uploaderId": "user_1787573735221_k7vl",
+    "uploaderAvatar": "/uploads/avatars/minglin_avatar.png",
+    "uploaderRole": "admin",
     "isOfficial": false,
     "isFeatured": true,
-    "downloadCount": 130,
+    "downloadCount": 349,
     "status": "published",
     "createdAt": "2026-09-29T07:46:07.952Z",
-    "updatedAt": "2026-09-30T16:10:14.632Z"
+    "updatedAt": "2026-10-02T15:17:47.213Z"
   },
   {
     "id": "app-hark--------------agent--android",
@@ -92,7 +94,7 @@
     "uploaderId": "user_1787573735221_k7vl",
     "isOfficial": false,
     "isFeatured": false,
-    "downloadCount": 70,
+    "downloadCount": 110,
     "status": "published",
     "createdAt": "2026-09-29T05:59:37.588Z",
     "updatedAt": "2026-09-29T06:24:32.651Z"
